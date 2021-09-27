@@ -7,6 +7,6 @@ Test case 1:
 
 Test case 2:
 ![Guess the number game, test case 2](./test_case_2.png)
-
 Test case 3:
+
 ![Guess the number game, test case 3](./test_case_3.png)
